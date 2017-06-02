@@ -1,2 +1,2 @@
 # cursolvPHP
-Ejemplos de aplicación escrita en PHP
+Ejemplo de aplicación escrita en PHP para probar en OpenShift Online 3
